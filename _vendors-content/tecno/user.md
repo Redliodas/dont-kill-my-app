@@ -28,8 +28,6 @@ Press the first option with the 🔒 icon.
       </figure>
 
 </div>
-  
-* **App Booster** = Add in your messaging apps, email apps, and apps that run in the background like AccuBattery, or in startup-like launchers. You can only put 4 apps.
 
 <div class="img-block">
   <figure>
